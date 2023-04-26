@@ -1,2 +1,2 @@
-# valador-cpf-dafio-dio
+# validador-cpf-dafio-dio
 Validar um número de CPF com gem
